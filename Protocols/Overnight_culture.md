@@ -8,12 +8,12 @@ DESCRIPTION: Overnight culture is a protocol used to grow bacteria, since it tak
 EQUIPMENTS:
 
 Bunsen burner \
-Orbital shaker incubator \ 
+Orbital shaker incubator 
 
 MATERIALS: 
 
 LB Broth \
-50 mL centrifuge tube (a.k.a. Falcon tube) \
+50 mL centrifuge tube (a.k.a. Falcon tube) 
 
 STEPS:
 
